@@ -175,7 +175,7 @@ paths:
                 - wefrwgth
               properties:
                 wefrwgth:
-                  type: string
+                  $ref: 'https://x-20486.stoplight-dev.com/api/v1/projects/test3000and2992/hell1234/nodes/models/newmodel.yaml?mid=3'
                   x-stoplight:
                     id: osoo4qvdcxyln
                   description: nalanda
