@@ -8,7 +8,7 @@ properties:
     x-stoplight:
       id: h2ezykjmbgbt0
   qdwfrget:
-    type: integer
+    type: string
     x-stoplight:
       id: 3gi9zh0fig5ru
   qewrwtg3:
