@@ -1,0 +1,29 @@
+title: newmodel
+x-stoplight:
+  id: 9imx4tqde0qqn
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: h2ezykjmbgbt0
+  qdwfrget:
+    type: integer
+    x-stoplight:
+      id: 3gi9zh0fig5ru
+  qewrwtg3:
+    type: string
+    x-stoplight:
+      id: xmknlgrglg6b3
+  weqrtg:
+    type: string
+    x-stoplight:
+      id: 0c990w9yj8aw3
+  qergth:
+    type: array
+    x-stoplight:
+      id: wmontskshdgie
+    items:
+      $ref: ./newmodel.yaml
+      x-stoplight:
+        id: 6p0dywf4pjv3h
